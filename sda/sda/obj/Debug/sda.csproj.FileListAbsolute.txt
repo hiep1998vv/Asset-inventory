@@ -1,0 +1,42 @@
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\sda.csproj.AssemblyReference.cache
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\sda.csproj.SuggestedBindingRedirects.cache
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\sda.Form1.resources
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\sda.MainProg.resources
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\sda.Properties.Resources.resources
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\sda.csproj.GenerateResource.cache
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\sda.csproj.CoreCompileInputs.cache
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\AForge.dll
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\AForge.Imaging.dll
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\AForge.Math.dll
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\AForge.Video.dll
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\zxing.dll
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\AForge.xml
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\AForge.Imaging.xml
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\AForge.Math.xml
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\AForge.Video.xml
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\zxing.xml
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\sda.csproj.CopyComplete
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\sda.camera.resources
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\Asset Inventory.exe.config
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\Asset Inventory.exe
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\bin\Debug\Asset Inventory.pdb
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\Asset Inventory.exe
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\Asset Inventory.pdb
+C:\Users\tim_sys_user\Desktop\QR_code_Scanner\sda\sda\obj\Debug\sda.Image_zoom.resources
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\bin\Debug\Asset Inventory.exe.config
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\bin\Debug\Asset Inventory.exe
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\bin\Debug\Asset Inventory.pdb
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\sda.csproj.AssemblyReference.cache
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\sda.csproj.SuggestedBindingRedirects.cache
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\sda.camera.resources
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\sda.Form1.resources
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\sda.Image_zoom.resources
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\sda.MainProg.resources
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\sda.Properties.Resources.resources
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\sda.csproj.GenerateResource.cache
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\sda.csproj.CoreCompileInputs.cache
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\sda.csproj.CopyComplete
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\Asset Inventory.exe
+C:\Users\tim_sys_user\Asset-inventory\sda\sda\obj\Debug\Asset Inventory.pdb
